@@ -1,0 +1,14 @@
+C:\Users\morer\source\repos\StringA\bin\Debug\net8.0\StringA.exe
+C:\Users\morer\source\repos\StringA\bin\Debug\net8.0\StringA.deps.json
+C:\Users\morer\source\repos\StringA\bin\Debug\net8.0\StringA.runtimeconfig.json
+C:\Users\morer\source\repos\StringA\bin\Debug\net8.0\StringA.dll
+C:\Users\morer\source\repos\StringA\bin\Debug\net8.0\StringA.pdb
+C:\Users\morer\source\repos\StringA\obj\Debug\net8.0\StringA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\morer\source\repos\StringA\obj\Debug\net8.0\StringA.AssemblyInfoInputs.cache
+C:\Users\morer\source\repos\StringA\obj\Debug\net8.0\StringA.AssemblyInfo.cs
+C:\Users\morer\source\repos\StringA\obj\Debug\net8.0\StringA.csproj.CoreCompileInputs.cache
+C:\Users\morer\source\repos\StringA\obj\Debug\net8.0\StringA.dll
+C:\Users\morer\source\repos\StringA\obj\Debug\net8.0\refint\StringA.dll
+C:\Users\morer\source\repos\StringA\obj\Debug\net8.0\StringA.pdb
+C:\Users\morer\source\repos\StringA\obj\Debug\net8.0\StringA.genruntimeconfig.cache
+C:\Users\morer\source\repos\StringA\obj\Debug\net8.0\ref\StringA.dll
